@@ -6,11 +6,11 @@ This project is a simple image carousel implemented using HTML and CSS and JS. I
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/sumanbiswas9/CodeAlpha-task-1-IMAGE-GALLERY.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd <project-directory>
+    cd CodeAlpha-task-1-IMAGE-GALLERY
     ```
 
 ## Usage
